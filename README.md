@@ -8,10 +8,14 @@ Every Project Needs
 * DL Count 
 * npm link
 * Github link 
+* publish npm on tag and successful build 
 
 ##  Node js 
 
-* bundesfeeds-api - v18.0.5 - API für den aktuellen Bundestag ;)
+bundesfeeds-api - v18.0.5 - API für den aktuellen Bundestag ;)
+[![npm](https://img.shields.io/npm/sebs/bundesfeeds-api.svg?style=flat-square)]() 
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square)]()
+
 * capcoin - v2.1.12 - Gets data from coincap.io in the CLI
 * dada-midi-channels - v2.0.0 - Config for the dada machine device.
 * es6-fuzz - v2.5.3 - fuzzy logic with and for es6
@@ -33,7 +37,6 @@ Every Project Needs
 * rsstojson - v0.1.1 - converts rss to json
 * socketizer - v0.0.4 - A cli to interact with web socket endpoints
 * web3-mocha-ui - v0.1.1 - TDD ui for mocha js, extrended for use with smart contracts and web3.
-
 
 # Ruby 
 
