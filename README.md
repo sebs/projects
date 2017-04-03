@@ -14,8 +14,9 @@ Every Project Needs
 
 bundesfeeds-api - v18.0.5 - API für den aktuellen Bundestag ;)
 
-[![npm](https://img.shields.io/npm/dt/bundesfeeds-api .svg?style=flat-square)]() 
-[![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square)]()
+![npm](https://img.shields.io/npm/dt/bundesfeeds-api .svg?style=flat-square)]() 
+
+![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square)]()
 
 * capcoin - v2.1.12 - Gets data from coincap.io in the CLI
 * dada-midi-channels - v2.0.0 - Config for the dada machine device.
