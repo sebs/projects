@@ -14,10 +14,11 @@ Every Project Needs
 
 bundesfeeds-api - v18.0.5 - API für den aktuellen Bundestag ;)
 
-[![npm](https://img.shields.io/npm/dt/bundesfeeds-api.svg)]()
-[![license](https://img.shields.io/github/license/bundesfeeds/bundesfeeds-api.svg)]()
-[![GitHub tag](https://img.shields.io/github/tag/bundesfeeds/bundesfeeds-api.svg)]()
-[![Travis](https://img.shields.io/travis/bundesfeeds/bundesfeeds-api.svg)]()
+[![npm](https://img.shields.io/npm/dt/bundesfeeds-api.svg)](https://www.npmjs.com/package/bundesfeeds-api)
+[![license](https://img.shields.io/github/license/bundesfeeds/bundesfeeds-api.svg)](https://github.com/bundesfeeds/bundesfeeds-api/blob/master/LICENSE.md)
+[![GitHub tag](https://img.shields.io/github/tag/bundesfeeds/bundesfeeds-api.svg)](https://github.com/bundesfeeds/bundesfeeds-api)
+[![Travis](https://img.shields.io/travis/bundesfeeds/bundesfeeds-api.svg)](https://travis-ci.org/bundesfeeds/bundesfeeds-api)
+[![GitHub issues](https://img.shields.io/github/issues/bundesfeeds/bundesfeeds-api.svg)](https://github.com/bundesfeeds/bundesfeeds-api/issues)
 
 capcoin - v2.1.12 - Gets data from coincap.io in the CLI
 
