@@ -19,7 +19,13 @@ bundesfeeds-api - v18.0.5 - API für den aktuellen Bundestag ;)
 [![GitHub tag](https://img.shields.io/github/tag/bundesfeeds/bundesfeeds-api.svg)]()
 [![Travis](https://img.shields.io/travis/bundesfeeds/bundesfeeds-api.svg)]()
 
-* capcoin - v2.1.12 - Gets data from coincap.io in the CLI
+capcoin - v2.1.12 - Gets data from coincap.io in the CLI
+
+[![npm](https://img.shields.io/npm/dt/capcoin.svg)]()
+[![license](https://img.shields.io/github/license/sebs/capcoin.svg)]()
+[![GitHub tag](https://img.shields.io/github/tag/sebs/capcoin.svg)]()
+[![Travis](https://img.shields.io/travis/sebs/capcoin.svg)]()
+
 * dada-midi-channels - v2.0.0 - Config for the dada machine device.
 * es6-fuzz - v2.5.3 - fuzzy logic with and for es6
 * es6-state-machine - v1.1.0 - state machine
