@@ -26,7 +26,13 @@ capcoin - v2.1.12 - Gets data from coincap.io in the CLI
 [![GitHub tag](https://img.shields.io/github/tag/sebs/capcoin.svg)]()
 [![Travis](https://img.shields.io/travis/sebs/capcoin.svg)]()
 
-* dada-midi-channels - v2.0.0 - Config for the dada machine device.
+dada-midi-channels - v2.0.0 - Config for the dada machine device.
+
+[![npm](https://img.shields.io/npm/dt/dada-midi-channels.svg)]()
+[![license](https://img.shields.io/github/license/sebs/dada-midi-channels.svg)]()
+[![GitHub tag](https://img.shields.io/github/tag/sebs/dada-midi-channels.svg)]()
+[![Travis](https://img.shields.io/travis/sebs/dada-midi-channels.svg)]()
+
 * es6-fuzz - v2.5.3 - fuzzy logic with and for es6
 * es6-state-machine - v1.1.0 - state machine
 * etherscan-api - v2.3.0 - API to etherscan with a simple interface
