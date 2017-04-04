@@ -62,10 +62,11 @@ ethrain - v1.3.4 - Command line Ethereum Testnet Faucet. gets you ether on the e
 
 fuzzylogic - v0.3.1 - A fuzzy logic module for node.js
 
-[![npm](https://img.shields.io/npm/dt/fuzzylogic.svg)]()
-[![license](https://img.shields.io/github/license/sebs/node-fuzzylogic.svg)]()
-[![GitHub tag](https://img.shields.io/github/tag/sebs/node-fuzzylogic.svg)]()
-[![Travis](https://img.shields.io/travis/sebs/node-fuzzylogic.svg)]()
+[![npm](https://img.shields.io/npm/dt/fuzzylogic.svg)](https://www.npmjs.com/package/fuzzylogic)
+[![license](https://img.shields.io/github/license/sebs/node-fuzzylogic.svg)](https://github.com/sebs/node-fuzzylogic/blob/master/LICENSE.md)
+[![GitHub tag](https://img.shields.io/github/tag/sebs/node-fuzzylogic.svg)](https://github.com/sebs/node-fuzzylogic)
+[![Travis](https://img.shields.io/travis/sebs/node-fuzzylogic.svg)](https://travis-ci.org/sebs/node-fuzzylogic)
+[![GitHub issues](https://img.shields.io/github/issues/sebs/node-fuzzylogic.svg)](https://github.com/sebs/node-fuzzylogic/issues)
 
 generator-nodecli-awesome - v2.6.0 - A improved Yeoman generator for nodejs cli modules
 
