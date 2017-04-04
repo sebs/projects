@@ -33,10 +33,34 @@ dada-midi-channels - v2.0.0 - Config for the dada machine device.
 [![GitHub tag](https://img.shields.io/github/tag/sebs/dada-midi-channels.svg)]()
 [![Travis](https://img.shields.io/travis/sebs/dada-midi-channels.svg)]()
 
-* es6-fuzz - v2.5.3 - fuzzy logic with and for es6
+es6-fuzz - v2.5.3 - fuzzy logic with and for es6
+
+[![npm](https://img.shields.io/npm/dt/es6-fuzz.svg)]()
+[![license](https://img.shields.io/github/license/sebs/es6-fuzz.svg)]()
+[![GitHub tag](https://img.shields.io/github/tag/sebs/es6-fuzz.svg)]()
+[![Travis](https://img.shields.io/travis/sebs/es6-fuzz.svg)]()
+
 * es6-state-machine - v1.1.0 - state machine
+
+[![npm](https://img.shields.io/npm/dt/es6-state-machine.svg)]()
+[![license](https://img.shields.io/github/license/sebs/es6-state-machine.svg)]()
+[![GitHub tag](https://img.shields.io/github/tag/sebs/es6-state-machine.svg)]()
+[![Travis](https://img.shields.io/travis/sebs/es6-state-machine.svg)]()
+
 * etherscan-api - v2.3.0 - API to etherscan with a simple interface
-* ethrain - v1.3.4 - Command line Ethereum Testnet Faucet. gets you ether on the ethereum testnet (morden)
+
+[![npm](https://img.shields.io/npm/dt/etherscan-api.svg)]()
+[![license](https://img.shields.io/github/license/sebs/etherscan-api.svg)]()
+[![GitHub tag](https://img.shields.io/github/tag/sebs/etherscan-api.svg)]()
+[![Travis](https://img.shields.io/travis/sebs/etherscan-api.svg)]()
+
+ethrain - v1.3.4 - Command line Ethereum Testnet Faucet. gets you ether on the ethereum testnet (morden)
+
+[![npm](https://img.shields.io/npm/dt/ethrain.svg)]()
+[![license](https://img.shields.io/github/license/sebs/ethrain.svg)]()
+[![GitHub tag](https://img.shields.io/github/tag/sebs/ethrain.svg)]()
+[![Travis](https://img.shields.io/travis/sebs/ethrain.svg)]()
+
 * fuzzylogic - v0.3.1 - A fuzzy logic module for node.js
 * generator-nodecli-awesome - v2.6.0 - A improved Yeoman generator for nodejs cli modules
 * md-glossary - v0.1.2 - Generates a glossary in markdown
