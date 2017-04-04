@@ -44,19 +44,13 @@ es6-fuzz - v2.5.3 - fuzzy logic with and for es6
 [![Travis](https://img.shields.io/travis/sebs/es6-fuzz.svg)](https://travis-ci.org/sebs/es6-fuzz)
 [![GitHub issues](https://img.shields.io/github/issues/sebs/es6-fuzz.svg)](https://github.com/sebs/es6-fuzz/issues)
 
-es6-state-machine - v1.1.0 - state machine
-
-[![npm](https://img.shields.io/npm/dt/es6-state-machine.svg)]()
-[![license](https://img.shields.io/github/license/sebs/es6-state-machine.svg)]()
-[![GitHub tag](https://img.shields.io/github/tag/sebs/es6-state-machine.svg)]()
-[![Travis](https://img.shields.io/travis/sebs/es6-state-machine.svg)]()
-
 etherscan-api - v2.3.0 - API to etherscan with a simple interface
 
-[![npm](https://img.shields.io/npm/dt/etherscan-api.svg)]()
-[![license](https://img.shields.io/github/license/sebs/etherscan-api.svg)]()
-[![GitHub tag](https://img.shields.io/github/tag/sebs/etherscan-api.svg)]()
-[![Travis](https://img.shields.io/travis/sebs/etherscan-api.svg)]()
+[![npm](https://img.shields.io/npm/dt/etherscan-api.svg)](https://www.npmjs.com/package/etherscan-api)
+[![license](https://img.shields.io/github/license/sebs/etherscan-api.svg)](https://github.com/sebs/etherscan-api/blob/master/LICENSE.md)
+[![GitHub tag](https://img.shields.io/github/tag/sebs/etherscan-api.svg)](https://github.com/sebs/etherscan-api)
+[![Travis](https://img.shields.io/travis/sebs/etherscan-api.svg)](https://travis-ci.org/sebs/etherscan-api)
+[![GitHub issues](https://img.shields.io/github/issues/sebs/etherscan-api.svg)](https://github.com/sebs/etherscan-api/issues)
 
 ethrain - v1.3.4 - Command line Ethereum Testnet Faucet. gets you ether on the ethereum testnet (morden)
 
