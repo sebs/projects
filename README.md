@@ -86,10 +86,11 @@ md-glossary - v0.1.2 - Generates a glossary in markdown
 
 michikoid-builder - v2.1.0 - Readme.md
 
-[![npm](https://img.shields.io/npm/dt/michikoid-builder.svg)]()
-[![license](https://img.shields.io/github/license/michikoid/michikoid-builder.svg)]()
-[![GitHub tag](https://img.shields.io/github/tag/michikoid/michikoid-builder.svg)]()
-[![Travis](https://img.shields.io/travis/michikoid/michikoid-builder.svg)]()
+[![npm](https://img.shields.io/npm/dt/michikoid-builder.svg)](https://www.npmjs.com/package/michikoid-builder)
+[![license](https://img.shields.io/github/license/Michikoid/michikoid-builder.svg)](https://github.com/Michikoid/michikoid-builder/blob/master/LICENSE.md)
+[![GitHub tag](https://img.shields.io/github/tag/Michikoid/michikoid-builder.svg)](https://github.com/Michikoid/michikoid-builder)
+[![Travis](https://img.shields.io/travis/Michikoid/michikoid-builder.svg)](https://travis-ci.org/Michikoid/michikoid-builder)
+[![GitHub issues](https://img.shields.io/github/issues/Michikoid/michikoid-builder.svg)](https://github.com/Michikoid/michikoid-builder/issues)
 
 michikoid-cli - v3.15.10 - A command line Interface to build, deploy and test your solidity smart contracts
 
