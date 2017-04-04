@@ -30,10 +30,11 @@ capcoin - v2.1.12 - Gets data from coincap.io in the CLI
 
 dada-midi-channels - v2.0.0 - Config for the dada machine device.
 
-[![npm](https://img.shields.io/npm/dt/dada-midi-channels.svg)]()
-[![license](https://img.shields.io/github/license/sebs/dada-midi-channels.svg)]()
-[![GitHub tag](https://img.shields.io/github/tag/sebs/dada-midi-channels.svg)]()
-[![Travis](https://img.shields.io/travis/sebs/dada-midi-channels.svg)]()
+[![npm](https://img.shields.io/npm/dt/dada-midi-channels.svg)](https://www.npmjs.com/package/dada-midi-channels)
+[![license](https://img.shields.io/github/license/sebs/dada-midi-channels.svg)](https://github.com/sebs/dada-midi-channels/blob/master/LICENSE.md)
+[![GitHub tag](https://img.shields.io/github/tag/sebs/dada-midi-channels.svg)](https://github.com/sebs/dada-midi-channels)
+[![Travis](https://img.shields.io/travis/sebs/dada-midi-channels.svg)](https://travis-ci.org/sebs/dada-midi-channels)
+[![GitHub issues](https://img.shields.io/github/issues/sebs/dada-midi-channels.svg)](https://github.com/sebs/dada-midi-channels/issues)
 
 es6-fuzz - v2.5.3 - fuzzy logic with and for es6
 
