@@ -78,10 +78,11 @@ generator-nodecli-awesome - v2.6.0 - A improved Yeoman generator for nodejs cli 
 
 md-glossary - v0.1.2 - Generates a glossary in markdown
 
-[![npm](https://img.shields.io/npm/dt/md-glossary.svg)]()
-[![license](https://img.shields.io/github/license/sebs/md-glossary.svg)]()
-[![GitHub tag](https://img.shields.io/github/tag/sebs/md-glossary.svg)]()
-[![Travis](https://img.shields.io/travis/sebs/md-glossary.svg)]()
+[![npm](https://img.shields.io/npm/dt/md-glossary.svg)](https://www.npmjs.com/package/md-glossary)
+[![license](https://img.shields.io/github/license/sebs/md-glossary.svg)](https://github.com/sebs/md-glossary/blob/master/LICENSE.md)
+[![GitHub tag](https://img.shields.io/github/tag/sebs/md-glossary.svg)](https://github.com/sebs/md-glossary)
+[![Travis](https://img.shields.io/travis/sebs/md-glossary.svg)](https://travis-ci.org/sebs/md-glossary)
+[![GitHub issues](https://img.shields.io/github/issues/sebs/md-glossary.svg)](https://github.com/sebs/md-glossary/issues)
 
 michikoid-builder - v2.1.0 - Readme.md
 
