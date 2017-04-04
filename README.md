@@ -21,10 +21,11 @@ bundesfeeds-api - v18.0.5 - API für den aktuellen Bundestag ;)
 
 capcoin - v2.1.12 - Gets data from coincap.io in the CLI
 
-[![npm](https://img.shields.io/npm/dt/capcoin.svg)]()
-[![license](https://img.shields.io/github/license/sebs/capcoin.svg)]()
-[![GitHub tag](https://img.shields.io/github/tag/sebs/capcoin.svg)]()
-[![Travis](https://img.shields.io/travis/sebs/capcoin.svg)]()
+[![npm](https://img.shields.io/npm/dt/capcoin.svg)](https://www.npmjs.com/package/capcoin)
+[![license](https://img.shields.io/github/license/sebs/capcoin.svg)](https://github.com/sebs/capcoin/blob/master/LICENSE.md)
+[![GitHub tag](https://img.shields.io/github/tag/sebs/capcoin.svg)](https://github.com/sebs/capcoin)
+[![Travis](https://img.shields.io/travis/sebs/capcoin.svg)](https://travis-ci.org/sebs/capcoin)
+[![GitHub issues](https://img.shields.io/github/issues/sebs/capcoin.svg)](https://github.com/sebs/capcoin/issues)
 
 dada-midi-channels - v2.0.0 - Config for the dada machine device.
 
