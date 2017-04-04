@@ -54,10 +54,11 @@ etherscan-api - v2.3.0 - API to etherscan with a simple interface
 
 ethrain - v1.3.4 - Command line Ethereum Testnet Faucet. gets you ether on the ethereum testnet (morden)
 
-[![npm](https://img.shields.io/npm/dt/ethrain.svg)]()
-[![license](https://img.shields.io/github/license/sebs/ethrain.svg)]()
-[![GitHub tag](https://img.shields.io/github/tag/sebs/ethrain.svg)]()
-[![Travis](https://img.shields.io/travis/sebs/ethrain.svg)]()
+[![npm](https://img.shields.io/npm/dt/ethrain.svg)](https://www.npmjs.com/package/ethrain)
+[![license](https://img.shields.io/github/license/sebs/ethrain.svg)](https://github.com/sebs/ethrain/blob/master/LICENSE.md)
+[![GitHub tag](https://img.shields.io/github/tag/sebs/ethrain.svg)](https://github.com/sebs/ethrain)
+[![Travis](https://img.shields.io/travis/sebs/ethrain.svg)](https://travis-ci.org/sebs/ethrain)
+[![GitHub issues](https://img.shields.io/github/issues/sebs/ethrain.svg)](https://github.com/sebs/ethrain/issues)
 
 fuzzylogic - v0.3.1 - A fuzzy logic module for node.js
 
