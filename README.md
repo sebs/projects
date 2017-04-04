@@ -94,17 +94,19 @@ michikoid-builder - v2.1.0 - Readme.md
 
 michikoid-cli - v3.15.10 - A command line Interface to build, deploy and test your solidity smart contracts
 
-[![npm](https://img.shields.io/npm/dt/michikoid-cli.svg)]()
-[![license](https://img.shields.io/github/license/michikoid/michikoid-cli.svg)]()
-[![GitHub tag](https://img.shields.io/github/tag/michikoid/michikoid-cli.svg)]()
-[![Travis](https://img.shields.io/travis/michikoid/michikoid-cli.svg)]()
+[![npm](https://img.shields.io/npm/dt/michikoid-cli.svg)](https://www.npmjs.com/package/michikoid-cli)
+[![license](https://img.shields.io/github/license/Michikoid/michikoid-cli.svg)](https://github.com/Michikoid/michikoid-cli/blob/master/LICENSE.md)
+[![GitHub tag](https://img.shields.io/github/tag/Michikoid/michikoid-cli.svg)](https://github.com/Michikoid/michikoid-cli)
+[![Travis](https://img.shields.io/travis/Michikoid/michikoid-cli.svg)](https://travis-ci.org/Michikoid/michikoid-cli)
+[![GitHub issues](https://img.shields.io/github/issues/Michikoid/michikoid-cli.svg)](https://github.com/Michikoid/michikoid-cli/issues)
 
 michikoid-compiler - v2.11.1 - Readme.md
 
-[![npm](https://img.shields.io/npm/dt/michikoid-compiler.svg)]()
-[![license](https://img.shields.io/github/license/michikoid/michikoid-compiler.svg)]()
-[![GitHub tag](https://img.shields.io/github/tag/michikoid/michikoid-compiler.svg)]()
-[![Travis](https://img.shields.io/travis/michikoid/michikoid-compiler.svg)]()
+[![npm](https://img.shields.io/npm/dt/michikoid-compiler.svg)](https://www.npmjs.com/package/michikoid-compiler)
+[![license](https://img.shields.io/github/license/Michikoid/michikoid-compiler.svg)](https://github.com/Michikoid/michikoid-compiler/blob/master/LICENSE.md)
+[![GitHub tag](https://img.shields.io/github/tag/Michikoid/michikoid-compiler.svg)](https://github.com/Michikoid/michikoid-compiler)
+[![Travis](https://img.shields.io/travis/Michikoid/michikoid-compiler.svg)](https://travis-ci.org/Michikoid/michikoid-compiler)
+[![GitHub issues](https://img.shields.io/github/issues/Michikoid/michikoid-compiler.svg)](https://github.com/Michikoid/michikoid-compiler/issues)
 
 michikoid-framework - v1.8.1 - Smartcontract Framework
 
@@ -115,10 +117,11 @@ michikoid-framework - v1.8.1 - Smartcontract Framework
 
 michikoid-manifest-validator - v1.4.2 - Validates manifest of build artifacts
 
-[![npm](https://img.shields.io/npm/dt/michikoid-manifest-validator.svg)]()
-[![license](https://img.shields.io/github/license/michikoid/michikoid-manifest-validator.svg)]()
-[![GitHub tag](https://img.shields.io/github/tag/michikoid/michikoid-manifest-validator.svg)]()
-[![Travis](https://img.shields.io/travis/michikoid/michikoid-manifest-validator.svg)]()
+[![npm](https://img.shields.io/npm/dt/michikoid-framework.svg)](https://www.npmjs.com/package/michikoid-framework)
+[![license](https://img.shields.io/github/license/Michikoid/michikoid-framework.svg)](https://github.com/Michikoid/michikoid-framework/blob/master/LICENSE.md)
+[![GitHub tag](https://img.shields.io/github/tag/Michikoid/michikoid-framework.svg)](https://github.com/Michikoid/michikoid-framework)
+[![Travis](https://img.shields.io/travis/Michikoid/michikoid-framework.svg)](https://travis-ci.org/Michikoid/michikoid-framework)
+[![GitHub issues](https://img.shields.io/github/issues/Michikoid/michikoid-framework.svg)](https://github.com/Michikoid/michikoid-framework/issues)
 
 michikoid-web3-mocha-ui - v0.1.2 - A UI for mocha and solidity contracts to simplify the integration testing of ethereum smart contracts
 
