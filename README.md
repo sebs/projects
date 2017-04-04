@@ -166,6 +166,7 @@ web3-mocha-ui - v0.1.1 - TDD ui for mocha js, extrended for use with smart contr
 [![license](https://img.shields.io/github/license/sebs/web3-mocha-ui.svg)]()
 [![GitHub tag](https://img.shields.io/github/tag/sebs/web3-mocha-ui.svg)]()
 [![Travis](https://img.shields.io/travis/sebs/web3-mocha-ui.svg)]()
+[![GitHub issues](https://img.shields.io/github/issues/sebs/web3-mocha-ui.svg)]()
 
 
 # Ruby 
