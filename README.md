@@ -70,9 +70,9 @@ fuzzylogic - v0.3.1 - A fuzzy logic module for node.js
 
 generator-nodecli-awesome - v2.6.0 - A improved Yeoman generator for nodejs cli modules
 
-[![npm](https://img.shields.io/npm/dt/node-cli-awesome.svg)]()
-[![license](https://img.shields.io/github/license/sebs/node-cli-awesome.svg)]()
-[![GitHub tag](https://img.shields.io/github/tag/sebs/node-cli-awesome.svg)]()
+[![npm](https://img.shields.io/npm/dt/generator-nodecli-awesome.svg)]()
+[![license](https://img.shields.io/github/license/sebs/generator-nodecli-awesome.svg)]()
+[![GitHub tag](https://img.shields.io/github/tag/sebs/generator-nodecli-awesome.svg)]()
 [![Travis](https://img.shields.io/travis/sebs/node-cli-awesome.svg)]()
 
 md-glossary - v0.1.2 - Generates a glossary in markdown
