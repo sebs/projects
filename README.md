@@ -1,15 +1,5 @@
 # Projects
 
-Every Project Needs
-* Readme
-* License
-* APi docs
-* Build Status 
-* DL Count 
-* npm link
-* Github link 
-* publish npm on tag and successful build 
-
 ##  Node js 
 
 bundesfeeds-api - v18.0.5 - API für den aktuellen Bundestag ;)
@@ -173,7 +163,4 @@ web3-mocha-ui - v0.1.1 - TDD ui for mocha js, extrended for use with smart contr
 [![GitHub tag](https://img.shields.io/github/tag/sebs/web3-mocha-ui.svg)]()
 [![Travis](https://img.shields.io/travis/sebs/web3-mocha-ui.svg)]()
 [![GitHub issues](https://img.shields.io/github/issues/sebs/web3-mocha-ui.svg)]()
-
-
-# Ruby 
 
