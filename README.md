@@ -136,10 +136,11 @@ pa-validate - v0.0.9 - validates Planetary Anhilation config files with JSON Sch
 
 rpc-check - v3.2.4 - RPC Check - Checks for Ethereum JSON RPC Nodes
 
-[![npm](https://img.shields.io/npm/dt/rpc-check.svg)]()
-[![license](https://img.shields.io/github/license/sebs/rpc-check.svg)]()
-[![GitHub tag](https://img.shields.io/github/tag/sebs/rpc-check.svg)]()
-[![Travis](https://img.shields.io/travis/sebs/rpc-check.svg)]()
+[![npm](https://img.shields.io/npm/dt/rpc-check.svg)](https://www.npmjs.com/package/rpc-check)
+[![license](https://img.shields.io/github/license/sebs/rpc-check.svg)](https://github.com/sebs/rpc-check/blob/master/LICENSE.md)
+[![GitHub tag](https://img.shields.io/github/tag/sebs/rpc-check.svg)](https://github.com/sebs/rpc-check)
+[![Travis](https://img.shields.io/travis/sebs/rpc-check.svg)](https://travis-ci.org/sebs/rpc-check)
+[![GitHub issues](https://img.shields.io/github/issues/sebs/rpc-check.svg)](https://github.com/sebs/rpc-check/issues)
 
 rsstojson - v0.1.1 - converts rss to json
 
