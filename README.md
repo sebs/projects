@@ -2,7 +2,12 @@
 
 ##  Node js 
 
-bundesfeeds-api - v18.0.5 - API für den aktuellen Bundestag ;)
+
+generator-hexo-plugin
+
+[![npm](https://img.shields.io/npm/dt/generator-hexo-plugin.svg)](https://www.npmjs.com/package/generator-hexo-plugin)
+
+bundesfeeds-api
 
 [![npm](https://img.shields.io/npm/dt/bundesfeeds-api.svg)](https://www.npmjs.com/package/bundesfeeds-api)
 [![license](https://img.shields.io/github/license/bundesfeeds/bundesfeeds-api.svg)](https://github.com/bundesfeeds/bundesfeeds-api/blob/master/LICENSE.md)
@@ -10,7 +15,7 @@ bundesfeeds-api - v18.0.5 - API für den aktuellen Bundestag ;)
 [![Travis](https://img.shields.io/travis/bundesfeeds/bundesfeeds-api.svg)](https://travis-ci.org/bundesfeeds/bundesfeeds-api)
 [![GitHub issues](https://img.shields.io/github/issues/bundesfeeds/bundesfeeds-api.svg)](https://github.com/bundesfeeds/bundesfeeds-api/issues)
 
-capcoin - v2.1.12 - Gets data from coincap.io in the CLI
+capcoin
 
 [![npm](https://img.shields.io/npm/dt/capcoin.svg)](https://www.npmjs.com/package/capcoin)
 [![license](https://img.shields.io/github/license/sebs/capcoin.svg)](https://github.com/sebs/capcoin/blob/master/LICENSE.md)
@@ -18,7 +23,7 @@ capcoin - v2.1.12 - Gets data from coincap.io in the CLI
 [![Travis](https://img.shields.io/travis/sebs/capcoin.svg)](https://travis-ci.org/sebs/capcoin)
 [![GitHub issues](https://img.shields.io/github/issues/sebs/capcoin.svg)](https://github.com/sebs/capcoin/issues)
 
-dada-midi-channels - v2.0.0 - Config for the dada machine device.
+dada-midi-channels
 
 [![npm](https://img.shields.io/npm/dt/dada-midi-channels.svg)](https://www.npmjs.com/package/dada-midi-channels)
 [![license](https://img.shields.io/github/license/sebs/dada-midi-channels.svg)](https://github.com/sebs/dada-midi-channels/blob/master/LICENSE.md)
