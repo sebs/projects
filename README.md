@@ -31,6 +31,14 @@ dada-midi-channels
 [![Travis](https://img.shields.io/travis/sebs/dada-midi-channels.svg)](https://travis-ci.org/sebs/dada-midi-channels)
 [![GitHub issues](https://img.shields.io/github/issues/sebs/dada-midi-channels.svg)](https://github.com/sebs/dada-midi-channels/issues)
 
+generator-lit-element
+
+[![npm](https://img.shields.io/npm/dt/generator-lit-element.svg)](https://www.npmjs.com/package/generator-lit-element)
+[![license](https://img.shields.io/github/license/sebs/generator-lit-element.svg)](https://github.com/sebs/generator-lit-element/blob/master/LICENSE.md)
+[![GitHub tag](https://img.shields.io/github/tag/sebs/generator-lit-element.svg)](https://github.com/sebs/generator-lit-element)
+[![Travis](https://img.shields.io/travis/sebs/generator-lit-element.svg)](https://travis-ci.org/sebs/generator-lit-element)
+[![GitHub issues](https://img.shields.io/github/issues/sebs/generator-lit-element.svg)](https://github.com/sebs/generator-lit-element/issues)
+
 es6-fuzz - v2.5.3 - fuzzy logic with and for es6
 
 [![npm](https://img.shields.io/npm/dt/es6-fuzz.svg)](https://www.npmjs.com/package/es6-fuzz)
