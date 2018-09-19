@@ -17,6 +17,15 @@ Generates a basic hexo plugin
 [Project Page](https://githubcom/sebs/generator-hexo-plugin)
 
 
+# generator-nodecli-awesome
+
+![npm](https://nodei.co/npm/generator-nodecli-awesome.png?downloads=true&downloadRank=true&stars=true)
+
+A improved Yeoman generator for nodejs cli modules
+
+[Project Page](https://github.com/sebs/generator-nodecli-awesome)
+
+
 # capcoin
 
 ![npm](https://nodei.co/npm/capcoin.png?downloads=true&downloadRank=true&stars=true)
@@ -51,15 +60,6 @@ API to etherscan with a simple interface
 Command line Ethereum Testnet Faucet. gets you ether on the ethereum testnet (morden)
 
 [Project Page](undefined)
-
-
-# generator-nodecli-awesome
-
-![npm](https://nodei.co/npm/generator-nodecli-awesome.png?downloads=true&downloadRank=true&stars=true)
-
-A improved Yeoman generator for nodejs cli modules
-
-[Project Page](https://github.com/sebs/generator-nodecli-awesome)
 
 
 # md-glossary
@@ -103,6 +103,33 @@ converts rss to json
 ![npm](https://nodei.co/npm/socketizer.png?downloads=true&downloadRank=true&stars=true)
 
 A cli to interact with web socket endpoints
+
+[Project Page](undefined)
+
+
+# etherscan-cli
+
+![npm](https://nodei.co/npm/etherscan-cli.png?downloads=true&downloadRank=true&stars=true)
+
+cli access to etherscan.io
+
+[Project Page](undefined)
+
+
+# es6-currency-codes
+
+![npm](https://nodei.co/npm/es6-currency-codes.png?downloads=true&downloadRank=true&stars=true)
+
+Lookup currency codes based on ISO 4217 in pure es6
+
+[Project Page](undefined)
+
+
+# esi-es6
+
+![npm](https://nodei.co/npm/esi-es6.png?downloads=true&downloadRank=true&stars=true)
+
+A simple es6 module wrapper around the eve online api
 
 [Project Page](undefined)
 

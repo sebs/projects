@@ -1,14 +1,17 @@
 [
  	"sebs/generator-lit-element",
  	"sebs/generator-hexo-plugin",
+	"sebs/generator-nodecli-awesome", 
 	"sebs/capcoin",
 	"sebs/es6-fuzz",
 	"sebs/etherscan-api",
 	"sebs/ethrain",
-	"sebs/generator-nodecli-awesome", 
 	"sebs/md-glossary",
 	"sebs/rpc-check", 
 	"bundesfeeds/rsstojson", 
 	"sebs/web3-mocha-ui",
-	"sebs/socketizer"
+	"sebs/socketizer",
+	"sebs/etherscan-cli",
+	"sebs/es6-currency-codes",
+	"sebs/esi-es6"
 ]
