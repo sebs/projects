@@ -14,4 +14,4 @@ ${package.description}
 [Project Page](${package.homepage})
 
 `)
-	}).then(console.log)
+	}).then(markdown => markdown.join('')).then(console.log)
