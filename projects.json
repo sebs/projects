@@ -8,5 +8,7 @@
 	"sebs/generator-nodecli-awesome", 
 	"sebs/md-glossary",
 	"sebs/rpc-check", 
-	"bundesfeeds/rsstojson"
+	"bundesfeeds/rsstojson", 
+	"sebs/web3-mocha-ui",
+	"sebs/socketizer"
 ]

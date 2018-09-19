@@ -9,6 +9,8 @@ Promise
 		return packages.map(package => `
 # ${package.name}
 
+![npm](https://nodei.co/npm/${package.name}.png?downloads=true&downloadRank=true&stars=true)
+
 ${package.description}
 
 [Project Page](${package.homepage})
