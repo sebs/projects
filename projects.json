@@ -1,0 +1,12 @@
+[
+ 	"sebs/generator-lit-element",
+ 	"sebs/generator-hexo-plugin",
+	"sebs/capcoin",
+	"sebs/es6-fuzz",
+	"sebs/etherscan-api",
+	"sebs/ethrain",
+	"sebs/generator-nodecli-awesome", 
+	"sebs/md-glossary",
+	"sebs/rpc-check", 
+	"bundesfeeds/rsstojson"
+]
