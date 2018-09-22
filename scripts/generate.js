@@ -13,7 +13,8 @@ Promise
 
 ${package.description}
 
-[Project Page](${package.homepage})
+* [Project Page](${package.homepage})
+* [NPM Package](https://www.npmjs.com/package/${package.name})
 
 `)
 	}).then(markdown => markdown.join('')).then(console.log)

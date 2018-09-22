@@ -5,7 +5,8 @@
 
 Scaffolds a empty lit-element module with tests and documentation
 
-[Project Page](undefined)
+* [Project Page](undefined)
+* [NPM Package](https://www.npmjs.com/package/generator-lit-element)
 
 
 # generator-hexo-plugin
@@ -14,7 +15,8 @@ Scaffolds a empty lit-element module with tests and documentation
 
 Generates a basic hexo plugin
 
-[Project Page](https://githubcom/sebs/generator-hexo-plugin)
+* [Project Page](https://githubcom/sebs/generator-hexo-plugin)
+* [NPM Package](https://www.npmjs.com/package/generator-hexo-plugin)
 
 
 # generator-nodecli-awesome
@@ -23,7 +25,8 @@ Generates a basic hexo plugin
 
 A improved Yeoman generator for nodejs cli modules
 
-[Project Page](https://github.com/sebs/generator-nodecli-awesome)
+* [Project Page](https://github.com/sebs/generator-nodecli-awesome)
+* [NPM Package](https://www.npmjs.com/package/generator-nodecli-awesome)
 
 
 # capcoin
@@ -32,7 +35,8 @@ A improved Yeoman generator for nodejs cli modules
 
 Gets data from coincap.io in the CLI
 
-[Project Page](https://github.com/sebs/capcoin#readme)
+* [Project Page](https://github.com/sebs/capcoin#readme)
+* [NPM Package](https://www.npmjs.com/package/capcoin)
 
 
 # es6-fuzz
@@ -41,7 +45,8 @@ Gets data from coincap.io in the CLI
 
 fuzzy logic with and for es6
 
-[Project Page](undefined)
+* [Project Page](undefined)
+* [NPM Package](https://www.npmjs.com/package/es6-fuzz)
 
 
 # etherscan-api
@@ -50,7 +55,8 @@ fuzzy logic with and for es6
 
 API to etherscan with a simple interface
 
-[Project Page](https://github.com/sebs/etherscan-api#readme)
+* [Project Page](https://github.com/sebs/etherscan-api#readme)
+* [NPM Package](https://www.npmjs.com/package/etherscan-api)
 
 
 # ethrain
@@ -59,7 +65,8 @@ API to etherscan with a simple interface
 
 Command line Ethereum Testnet Faucet. gets you ether on the ethereum testnet (morden)
 
-[Project Page](undefined)
+* [Project Page](undefined)
+* [NPM Package](https://www.npmjs.com/package/ethrain)
 
 
 # md-glossary
@@ -68,7 +75,8 @@ Command line Ethereum Testnet Faucet. gets you ether on the ethereum testnet (mo
 
 Generates a glossary in markdown
 
-[Project Page](undefined)
+* [Project Page](undefined)
+* [NPM Package](https://www.npmjs.com/package/md-glossary)
 
 
 # rpc-check
@@ -77,7 +85,8 @@ Generates a glossary in markdown
 
 RPC Check - Checks for Ethereum JSON RPC Nodes
 
-[Project Page](https://github.com/sebs/rpc-check)
+* [Project Page](https://github.com/sebs/rpc-check)
+* [NPM Package](https://www.npmjs.com/package/rpc-check)
 
 
 # rsstojson
@@ -86,7 +95,8 @@ RPC Check - Checks for Ethereum JSON RPC Nodes
 
 converts rss to json 
 
-[Project Page](undefined)
+* [Project Page](undefined)
+* [NPM Package](https://www.npmjs.com/package/rsstojson)
 
 
 # web3-mocha-ui
@@ -95,7 +105,8 @@ converts rss to json
 
 
 
-[Project Page](https://github.com/sebs/web3-mocha-ui#readme)
+* [Project Page](https://github.com/sebs/web3-mocha-ui#readme)
+* [NPM Package](https://www.npmjs.com/package/web3-mocha-ui)
 
 
 # socketizer
@@ -104,7 +115,8 @@ converts rss to json
 
 A cli to interact with web socket endpoints
 
-[Project Page](undefined)
+* [Project Page](undefined)
+* [NPM Package](https://www.npmjs.com/package/socketizer)
 
 
 # etherscan-cli
@@ -113,7 +125,8 @@ A cli to interact with web socket endpoints
 
 cli access to etherscan.io
 
-[Project Page](undefined)
+* [Project Page](undefined)
+* [NPM Package](https://www.npmjs.com/package/etherscan-cli)
 
 
 # es6-currency-codes
@@ -122,7 +135,8 @@ cli access to etherscan.io
 
 Lookup currency codes based on ISO 4217 in pure es6
 
-[Project Page](undefined)
+* [Project Page](undefined)
+* [NPM Package](https://www.npmjs.com/package/es6-currency-codes)
 
 
 # esi-es6
@@ -131,6 +145,7 @@ Lookup currency codes based on ISO 4217 in pure es6
 
 A simple es6 module wrapper around the eve online api
 
-[Project Page](undefined)
+* [Project Page](undefined)
+* [NPM Package](https://www.npmjs.com/package/esi-es6)
 
 
