@@ -5,7 +5,7 @@
 
 Scaffolds a empty lit-element module with tests and documentation
 
-* [Project Page](undefined)
+* [Project Page](https://github.com/sebs/generator-lit-element/)
 * [NPM Package](https://www.npmjs.com/package/generator-lit-element)
 
 
@@ -45,7 +45,7 @@ Gets data from coincap.io in the CLI
 
 fuzzy logic with and for es6
 
-* [Project Page](undefined)
+* [Project Page](https://github.com/sebs/es6-fuzz)
 * [NPM Package](https://www.npmjs.com/package/es6-fuzz)
 
 
@@ -65,7 +65,7 @@ API to etherscan with a simple interface
 
 Command line Ethereum Testnet Faucet. gets you ether on the ethereum testnet (morden)
 
-* [Project Page](undefined)
+* [Project Page](https://github.com/sebs/ethrain)
 * [NPM Package](https://www.npmjs.com/package/ethrain)
 
 
@@ -75,7 +75,7 @@ Command line Ethereum Testnet Faucet. gets you ether on the ethereum testnet (mo
 
 Generates a glossary in markdown
 
-* [Project Page](undefined)
+* [Project Page](https://github.com/sebs/md-glossary/)
 * [NPM Package](https://www.npmjs.com/package/md-glossary)
 
 
