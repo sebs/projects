@@ -15,7 +15,7 @@ Scaffolds a empty lit-element module with tests and documentation
 
 Generates a basic hexo plugin
 
-* [Project Page](https://githubcom/sebs/generator-hexo-plugin)
+* [Project Page](https://github.com/sebs/generator-hexo-plugin)
 * [NPM Package](https://www.npmjs.com/package/generator-hexo-plugin)
 
 
@@ -125,7 +125,7 @@ A cli to interact with web socket endpoints
 
 cli access to etherscan.io
 
-* [Project Page](undefined)
+* [Project Page](https://github.com/sebs/etherscan-cli/)
 * [NPM Package](https://www.npmjs.com/package/etherscan-cli)
 
 
@@ -145,7 +145,7 @@ Lookup currency codes based on ISO 4217 in pure es6
 
 A simple es6 module wrapper around the eve online api
 
-* [Project Page](undefined)
+* [Project Page](https://github.com/sebs/esi-es6)
 * [NPM Package](https://www.npmjs.com/package/esi-es6)
 
 
