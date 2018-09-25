@@ -21,7 +21,6 @@ Promise
 	.then(projectNames=>projectNames.map(name=>fetchStats(name))) // get stats for names
 	.then(res=>Promise.all(res)) // resolve results
 	.then(stats=>stats.map(datum=>datum.downloads)) // only downloads
-	.then(stats=>stats.filter(datum=>typeof datum !== 'undefined')) // only download
+	.then(stats=>stats.filter(datum=>typeof datum !== 'undefined')) // only downloads with counts
 	.then(downloadCounts=>downloadCounts.reduce(add))
-	.then(console.log)
-// https://api.npmjs.org/downloads/point/last-week/express/
+	.then(result=>console.log)
