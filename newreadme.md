@@ -149,3 +149,13 @@ A simple es6 module wrapper around the eve online api
 * [NPM Package](https://www.npmjs.com/package/esi-es6)
 
 
+# makebadges-cli
+
+![npm](https://nodei.co/npm/makebadges-cli.png?downloads=true&downloadRank=true&stars=true)
+
+creates some markdwon badges for sebs.github.io/projects
+
+* [Project Page](undefined)
+* [NPM Package](https://www.npmjs.com/package/makebadges-cli)
+
+

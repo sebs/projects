@@ -13,5 +13,6 @@
 	"sebs/socketizer",
 	"sebs/etherscan-cli",
 	"sebs/es6-currency-codes",
-	"sebs/esi-es6"
+	"sebs/esi-es6",
+	"sebs/makebadges-cli"
 ]
