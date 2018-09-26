@@ -14,5 +14,8 @@
 	"sebs/etherscan-cli",
 	"sebs/es6-currency-codes",
 	"sebs/esi-es6",
-	"sebs/makebadges-cli"
+	"sebs/makebadges-cli",
+	"sebs/mocha-test-runner",
+	"sebs/michikoid-web3-mocha-ui",
+	"sebs/socketizer"
 ]
