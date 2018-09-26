@@ -27,4 +27,3 @@ Promise
 	.then(JSON.stringify) // stringify the output
 	.then(console.log) // putput the data
 	.catch(console.error) // echo error
-// https://api.npmjs.org/downloads/point/last-week/express/
