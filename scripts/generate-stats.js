@@ -1,7 +1,6 @@
 const fetch = require('node-fetch');
 var projects = require('../projects.json');
 
-
 function fetchProject(project) {
 	return fetch(`https://raw.githubusercontent.com/${project}/master/package.json`)
 		.then(res => res.json()).catch(console.error)

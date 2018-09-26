@@ -3,6 +3,8 @@
 
 Downloads last 365 days: 35557
 
+
+
 ## generator-lit-element
 
 ![npm](https://nodei.co/npm/generator-lit-element.png?downloads=true&downloadRank=true&stars=true)
@@ -12,10 +14,6 @@ Scaffolds a empty lit-element module with tests and documentation
 * [Project Page](https://github.com/sebs/generator-lit-element/)
 * [NPM Package](https://www.npmjs.com/package/generator-lit-element)
 
-
-# Projects on NPM
-
-Downloads last 365 days: 35557
 
 ## generator-hexo-plugin
 
@@ -27,10 +25,6 @@ Generates a basic hexo plugin
 * [NPM Package](https://www.npmjs.com/package/generator-hexo-plugin)
 
 
-# Projects on NPM
-
-Downloads last 365 days: 35557
-
 ## generator-nodecli-awesome
 
 ![npm](https://nodei.co/npm/generator-nodecli-awesome.png?downloads=true&downloadRank=true&stars=true)
@@ -40,10 +34,6 @@ A improved Yeoman generator for nodejs cli modules
 * [Project Page](https://github.com/sebs/generator-nodecli-awesome)
 * [NPM Package](https://www.npmjs.com/package/generator-nodecli-awesome)
 
-
-# Projects on NPM
-
-Downloads last 365 days: 35557
 
 ## capcoin
 
@@ -55,10 +45,6 @@ Gets data from coincap.io in the CLI
 * [NPM Package](https://www.npmjs.com/package/capcoin)
 
 
-# Projects on NPM
-
-Downloads last 365 days: 35557
-
 ## es6-fuzz
 
 ![npm](https://nodei.co/npm/es6-fuzz.png?downloads=true&downloadRank=true&stars=true)
@@ -68,10 +54,6 @@ fuzzy logic with and for es6
 * [Project Page](https://github.com/sebs/es6-fuzz)
 * [NPM Package](https://www.npmjs.com/package/es6-fuzz)
 
-
-# Projects on NPM
-
-Downloads last 365 days: 35557
 
 ## etherscan-api
 
@@ -83,10 +65,6 @@ API to etherscan with a simple interface
 * [NPM Package](https://www.npmjs.com/package/etherscan-api)
 
 
-# Projects on NPM
-
-Downloads last 365 days: 35557
-
 ## ethrain
 
 ![npm](https://nodei.co/npm/ethrain.png?downloads=true&downloadRank=true&stars=true)
@@ -96,10 +74,6 @@ Command line Ethereum Testnet Faucet. gets you ether on the ethereum testnet (mo
 * [Project Page](https://github.com/sebs/ethrain)
 * [NPM Package](https://www.npmjs.com/package/ethrain)
 
-
-# Projects on NPM
-
-Downloads last 365 days: 35557
 
 ## md-glossary
 
@@ -111,10 +85,6 @@ Generates a glossary in markdown
 * [NPM Package](https://www.npmjs.com/package/md-glossary)
 
 
-# Projects on NPM
-
-Downloads last 365 days: 35557
-
 ## rpc-check
 
 ![npm](https://nodei.co/npm/rpc-check.png?downloads=true&downloadRank=true&stars=true)
@@ -124,10 +94,6 @@ RPC Check - Checks for Ethereum JSON RPC Nodes
 * [Project Page](https://github.com/sebs/rpc-check)
 * [NPM Package](https://www.npmjs.com/package/rpc-check)
 
-
-# Projects on NPM
-
-Downloads last 365 days: 35557
 
 ## rsstojson
 
@@ -139,10 +105,6 @@ converts rss to json
 * [NPM Package](https://www.npmjs.com/package/rsstojson)
 
 
-# Projects on NPM
-
-Downloads last 365 days: 35557
-
 ## web3-mocha-ui
 
 ![npm](https://nodei.co/npm/web3-mocha-ui.png?downloads=true&downloadRank=true&stars=true)
@@ -152,10 +114,6 @@ Downloads last 365 days: 35557
 * [Project Page](https://github.com/sebs/web3-mocha-ui#readme)
 * [NPM Package](https://www.npmjs.com/package/web3-mocha-ui)
 
-
-# Projects on NPM
-
-Downloads last 365 days: 35557
 
 ## socketizer
 
@@ -167,10 +125,6 @@ A cli to interact with web socket endpoints
 * [NPM Package](https://www.npmjs.com/package/socketizer)
 
 
-# Projects on NPM
-
-Downloads last 365 days: 35557
-
 ## etherscan-cli
 
 ![npm](https://nodei.co/npm/etherscan-cli.png?downloads=true&downloadRank=true&stars=true)
@@ -180,10 +134,6 @@ cli access to etherscan.io
 * [Project Page](https://github.com/sebs/etherscan-cli/)
 * [NPM Package](https://www.npmjs.com/package/etherscan-cli)
 
-
-# Projects on NPM
-
-Downloads last 365 days: 35557
 
 ## es6-currency-codes
 
@@ -195,10 +145,6 @@ Lookup currency codes based on ISO 4217 in pure es6
 * [NPM Package](https://www.npmjs.com/package/es6-currency-codes)
 
 
-# Projects on NPM
-
-Downloads last 365 days: 35557
-
 ## esi-es6
 
 ![npm](https://nodei.co/npm/esi-es6.png?downloads=true&downloadRank=true&stars=true)
@@ -208,10 +154,6 @@ A simple es6 module wrapper around the eve online api
 * [Project Page](https://github.com/sebs/esi-es6)
 * [NPM Package](https://www.npmjs.com/package/esi-es6)
 
-
-# Projects on NPM
-
-Downloads last 365 days: 35557
 
 ## makebadges-cli
 
@@ -223,10 +165,6 @@ creates some markdwon badges for sebs.github.io/projects
 * [NPM Package](https://www.npmjs.com/package/makebadges-cli)
 
 
-# Projects on NPM
-
-Downloads last 365 days: 35557
-
 ## mocha-test-runner-polymer
 
 ![npm](https://nodei.co/npm/mocha-test-runner-polymer.png?downloads=true&downloadRank=true&stars=true)
@@ -237,10 +175,6 @@ Runs a mocha test
 * [NPM Package](https://www.npmjs.com/package/mocha-test-runner-polymer)
 
 
-# Projects on NPM
-
-Downloads last 365 days: 35557
-
 ## web3-mocha-ui
 
 ![npm](https://nodei.co/npm/web3-mocha-ui.png?downloads=true&downloadRank=true&stars=true)
@@ -250,10 +184,6 @@ Downloads last 365 days: 35557
 * [Project Page](https://github.com/sebs/web3-mocha-ui#readme)
 * [NPM Package](https://www.npmjs.com/package/web3-mocha-ui)
 
-
-# Projects on NPM
-
-Downloads last 365 days: 35557
 
 ## socketizer
 
