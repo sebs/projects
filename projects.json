@@ -8,7 +8,6 @@
 	"sebs/ethrain",
 	"sebs/md-glossary",
 	"sebs/rpc-check", 
-	"bundesfeeds/rsstojson", 
 	"sebs/web3-mocha-ui",
 	"sebs/socketizer",
 	"sebs/etherscan-cli",
@@ -17,5 +16,14 @@
 	"sebs/makebadges-cli",
 	"sebs/mocha-test-runner",
 	"sebs/michikoid-web3-mocha-ui",
-	"sebs/socketizer"
+	"sebs/socketizer",
+	"bundesfeeds/rsstojson",
+	"@hiherto-elements/assert",
+	"@hiherto-elements/gherkin",
+	"@hiherto-elements/esi",
+	"@hiherto-elements/natural",
+	"@hiherto-elements/punycode",
+	"@hiherto-elements/querystring",
+	"@hiherto-elements/url",
+	"@hiherto-elements/diff"
 ]

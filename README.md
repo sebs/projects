@@ -1,180 +1,277 @@
-# Projects
 
-##  Node js 
+# Projects on NPM
 
-
-generator-hexo-plugin
-
-[![npm](https://img.shields.io/npm/dt/generator-hexo-plugin.svg)](https://www.npmjs.com/package/generator-hexo-plugin)
-
-bundesfeeds-api
-
-[![npm](https://img.shields.io/npm/dt/bundesfeeds-api.svg)](https://www.npmjs.com/package/bundesfeeds-api)
-[![license](https://img.shields.io/github/license/bundesfeeds/bundesfeeds-api.svg)](https://github.com/bundesfeeds/bundesfeeds-api/blob/master/LICENSE.md)
-[![GitHub tag](https://img.shields.io/github/tag/bundesfeeds/bundesfeeds-api.svg)](https://github.com/bundesfeeds/bundesfeeds-api)
-[![Travis](https://img.shields.io/travis/bundesfeeds/bundesfeeds-api.svg)](https://travis-ci.org/bundesfeeds/bundesfeeds-api)
-[![GitHub issues](https://img.shields.io/github/issues/bundesfeeds/bundesfeeds-api.svg)](https://github.com/bundesfeeds/bundesfeeds-api/issues)
-
-capcoin
-
-[![npm](https://img.shields.io/npm/dt/capcoin.svg)](https://www.npmjs.com/package/capcoin)
-[![license](https://img.shields.io/github/license/sebs/capcoin.svg)](https://github.com/sebs/capcoin/blob/master/LICENSE.md)
-[![GitHub tag](https://img.shields.io/github/tag/sebs/capcoin.svg)](https://github.com/sebs/capcoin)
-[![Travis](https://img.shields.io/travis/sebs/capcoin.svg)](https://travis-ci.org/sebs/capcoin)
-[![GitHub issues](https://img.shields.io/github/issues/sebs/capcoin.svg)](https://github.com/sebs/capcoin/issues)
-
-dada-midi-channels
-
-[![npm](https://img.shields.io/npm/dt/dada-midi-channels.svg)](https://www.npmjs.com/package/dada-midi-channels)
-[![license](https://img.shields.io/github/license/sebs/dada-midi-channels.svg)](https://github.com/sebs/dada-midi-channels/blob/master/LICENSE.md)
-[![GitHub tag](https://img.shields.io/github/tag/sebs/dada-midi-channels.svg)](https://github.com/sebs/dada-midi-channels)
-[![Travis](https://img.shields.io/travis/sebs/dada-midi-channels.svg)](https://travis-ci.org/sebs/dada-midi-channels)
-[![GitHub issues](https://img.shields.io/github/issues/sebs/dada-midi-channels.svg)](https://github.com/sebs/dada-midi-channels/issues)
-
-generator-lit-element
-
-[![npm](https://img.shields.io/npm/dt/generator-lit-element.svg)](https://www.npmjs.com/package/generator-lit-element)
-[![license](https://img.shields.io/github/license/sebs/generator-lit-element.svg)](https://github.com/sebs/generator-lit-element/blob/master/LICENSE.md)
-[![GitHub tag](https://img.shields.io/github/tag/sebs/generator-lit-element.svg)](https://github.com/sebs/generator-lit-element)
-[![Travis](https://img.shields.io/travis/sebs/generator-lit-element.svg)](https://travis-ci.org/sebs/generator-lit-element)
-[![GitHub issues](https://img.shields.io/github/issues/sebs/generator-lit-element.svg)](https://github.com/sebs/generator-lit-element/issues)
-
-es6-fuzz - v2.5.3 - fuzzy logic with and for es6
-
-[![npm](https://img.shields.io/npm/dt/es6-fuzz.svg)](https://www.npmjs.com/package/es6-fuzz)
-[![license](https://img.shields.io/github/license/sebs/es6-fuzz.svg)](https://github.com/sebs/es6-fuzz/blob/master/LICENSE.md)
-[![GitHub tag](https://img.shields.io/github/tag/sebs/es6-fuzz.svg)](https://github.com/sebs/es6-fuzz)
-[![Travis](https://img.shields.io/travis/sebs/es6-fuzz.svg)](https://travis-ci.org/sebs/es6-fuzz)
-[![GitHub issues](https://img.shields.io/github/issues/sebs/es6-fuzz.svg)](https://github.com/sebs/es6-fuzz/issues)
-
-etherscan-api - v2.3.0 - API to etherscan with a simple interface
-
-[![npm](https://img.shields.io/npm/dt/etherscan-api.svg)](https://www.npmjs.com/package/etherscan-api)
-[![license](https://img.shields.io/github/license/sebs/etherscan-api.svg)](https://github.com/sebs/etherscan-api/blob/master/LICENSE.md)
-[![GitHub tag](https://img.shields.io/github/tag/sebs/etherscan-api.svg)](https://github.com/sebs/etherscan-api)
-[![Travis](https://img.shields.io/travis/sebs/etherscan-api.svg)](https://travis-ci.org/sebs/etherscan-api)
-[![GitHub issues](https://img.shields.io/github/issues/sebs/etherscan-api.svg)](https://github.com/sebs/etherscan-api/issues)
-
-ethrain - v1.3.4 - Command line Ethereum Testnet Faucet. gets you ether on the ethereum testnet (morden)
-
-[![npm](https://img.shields.io/npm/dt/ethrain.svg)](https://www.npmjs.com/package/ethrain)
-[![license](https://img.shields.io/github/license/sebs/ethrain.svg)](https://github.com/sebs/ethrain/blob/master/LICENSE.md)
-[![GitHub tag](https://img.shields.io/github/tag/sebs/ethrain.svg)](https://github.com/sebs/ethrain)
-[![Travis](https://img.shields.io/travis/sebs/ethrain.svg)](https://travis-ci.org/sebs/ethrain)
-[![GitHub issues](https://img.shields.io/github/issues/sebs/ethrain.svg)](https://github.com/sebs/ethrain/issues)
-
-fuzzylogic - v0.3.1 - A fuzzy logic module for node.js
-
-[![npm](https://img.shields.io/npm/dt/fuzzylogic.svg)](https://www.npmjs.com/package/fuzzylogic)
-[![license](https://img.shields.io/github/license/sebs/node-fuzzylogic.svg)](https://github.com/sebs/node-fuzzylogic/blob/master/LICENSE.md)
-[![GitHub tag](https://img.shields.io/github/tag/sebs/node-fuzzylogic.svg)](https://github.com/sebs/node-fuzzylogic)
-[![Travis](https://img.shields.io/travis/sebs/node-fuzzylogic.svg)](https://travis-ci.org/sebs/node-fuzzylogic)
-[![GitHub issues](https://img.shields.io/github/issues/sebs/node-fuzzylogic.svg)](https://github.com/sebs/node-fuzzylogic/issues)
-
-generator-nodecli-awesome - v2.6.0 - A improved Yeoman generator for nodejs cli modules
-
-[![npm](https://img.shields.io/npm/dt/generator-nodecli-awesome.svg)](https://www.npmjs.com/package/generator-nodecli-awesome)
-[![license](https://img.shields.io/github/license/sebs/generator-nodecli-awesome.svg)](https://github.com/sebs/generator-nodecli-awesome/blob/master/LICENSE.md)
-[![GitHub tag](https://img.shields.io/github/tag/sebs/generator-nodecli-awesome.svg)](https://github.com/sebs/generator-nodecli-awesome)
-[![Travis](https://img.shields.io/travis/sebs/generator-nodecli-awesome.svg)](https://travis-ci.org/sebs/generator-nodecli-awesome)
-[![GitHub issues](https://img.shields.io/github/issues/sebs/generator-nodecli-awesome.svg)](https://github.com/sebs/generator-nodecli-awesome/issues)
-
-md-glossary - v0.1.2 - Generates a glossary in markdown
-
-[![npm](https://img.shields.io/npm/dt/md-glossary.svg)](https://www.npmjs.com/package/md-glossary)
-[![license](https://img.shields.io/github/license/sebs/md-glossary.svg)](https://github.com/sebs/md-glossary/blob/master/LICENSE.md)
-[![GitHub tag](https://img.shields.io/github/tag/sebs/md-glossary.svg)](https://github.com/sebs/md-glossary)
-[![Travis](https://img.shields.io/travis/sebs/md-glossary.svg)](https://travis-ci.org/sebs/md-glossary)
-[![GitHub issues](https://img.shields.io/github/issues/sebs/md-glossary.svg)](https://github.com/sebs/md-glossary/issues)
-
-michikoid-builder - v2.1.0 - Readme.md
-
-[![npm](https://img.shields.io/npm/dt/michikoid-builder.svg)](https://www.npmjs.com/package/michikoid-builder)
-[![license](https://img.shields.io/github/license/Michikoid/michikoid-builder.svg)](https://github.com/Michikoid/michikoid-builder/blob/master/LICENSE.md)
-[![GitHub tag](https://img.shields.io/github/tag/Michikoid/michikoid-builder.svg)](https://github.com/Michikoid/michikoid-builder)
-[![Travis](https://img.shields.io/travis/Michikoid/michikoid-builder.svg)](https://travis-ci.org/Michikoid/michikoid-builder)
-[![GitHub issues](https://img.shields.io/github/issues/Michikoid/michikoid-builder.svg)](https://github.com/Michikoid/michikoid-builder/issues)
-
-michikoid-cli - v3.15.10 - A command line Interface to build, deploy and test your solidity smart contracts
-
-[![npm](https://img.shields.io/npm/dt/michikoid-cli.svg)](https://www.npmjs.com/package/michikoid-cli)
-[![license](https://img.shields.io/github/license/Michikoid/michikoid-cli.svg)](https://github.com/Michikoid/michikoid-cli/blob/master/LICENSE.md)
-[![GitHub tag](https://img.shields.io/github/tag/Michikoid/michikoid-cli.svg)](https://github.com/Michikoid/michikoid-cli)
-[![Travis](https://img.shields.io/travis/Michikoid/michikoid-cli.svg)](https://travis-ci.org/Michikoid/michikoid-cli)
-[![GitHub issues](https://img.shields.io/github/issues/Michikoid/michikoid-cli.svg)](https://github.com/Michikoid/michikoid-cli/issues)
-
-michikoid-compiler - v2.11.1 - Readme.md
-
-[![npm](https://img.shields.io/npm/dt/michikoid-compiler.svg)](https://www.npmjs.com/package/michikoid-compiler)
-[![license](https://img.shields.io/github/license/Michikoid/michikoid-compiler.svg)](https://github.com/Michikoid/michikoid-compiler/blob/master/LICENSE.md)
-[![GitHub tag](https://img.shields.io/github/tag/Michikoid/michikoid-compiler.svg)](https://github.com/Michikoid/michikoid-compiler)
-[![Travis](https://img.shields.io/travis/Michikoid/michikoid-compiler.svg)](https://travis-ci.org/Michikoid/michikoid-compiler)
-[![GitHub issues](https://img.shields.io/github/issues/Michikoid/michikoid-compiler.svg)](https://github.com/Michikoid/michikoid-compiler/issues)
-
-michikoid-framework - v1.8.1 - Smartcontract Framework
-
-[![npm](https://img.shields.io/npm/dt/michikoid-framework.svg)]()
-[![license](https://img.shields.io/github/license/michikoid/michikoid-framework.svg)]()
-[![GitHub tag](https://img.shields.io/github/tag/michikoid/michikoid-framework.svg)]()
-[![Travis](https://img.shields.io/travis/michikoid/michikoid-framework.svg)]()
-
-michikoid-manifest-validator - v1.4.2 - Validates manifest of build artifacts
-
-[![npm](https://img.shields.io/npm/dt/michikoid-framework.svg)](https://www.npmjs.com/package/michikoid-framework)
-[![license](https://img.shields.io/github/license/Michikoid/michikoid-framework.svg)](https://github.com/Michikoid/michikoid-framework/blob/master/LICENSE.md)
-[![GitHub tag](https://img.shields.io/github/tag/Michikoid/michikoid-framework.svg)](https://github.com/Michikoid/michikoid-framework)
-[![Travis](https://img.shields.io/travis/Michikoid/michikoid-framework.svg)](https://travis-ci.org/Michikoid/michikoid-framework)
-[![GitHub issues](https://img.shields.io/github/issues/Michikoid/michikoid-framework.svg)](https://github.com/Michikoid/michikoid-framework/issues)
-
-michikoid-web3-mocha-ui - v0.1.2 - A UI for mocha and solidity contracts to simplify the integration testing of ethereum smart contracts
-
-[![npm](https://img.shields.io/npm/dt/michikoid-web3-mocha-ui.svg)]()
-[![license](https://img.shields.io/github/license/michikoid/michikoid-web3-mocha-ui.svg)]()
-[![GitHub tag](https://img.shields.io/github/tag/michikoid/michikoid-web3-mocha-ui.svg)]()
-[![Travis](https://img.shields.io/travis/michikoid/michikoid-web3-mocha-ui.svg)]()
-
-octodown - v1.3.0 - Allows to place octopart links in markdown files to help with parts research
-
-[![npm](https://img.shields.io/npm/dt/octodown.svg)]()
-[![license](https://img.shields.io/github/license/sebs/octodown.svg)]()
-[![GitHub tag](https://img.shields.io/github/tag/sebs/octodown.svg)]()
-[![Travis](https://img.shields.io/travis/sebs/octodown.svg)]()
-
-pa-validate - v0.0.9 - validates Planetary Anhilation config files with JSON Schema
-
-[![npm](https://img.shields.io/npm/dt/pa-validate.svg)]()
-[![license](https://img.shields.io/github/license/sebs/pa-validate.svg)]()
-[![GitHub tag](https://img.shields.io/github/tag/sebs/pa-validate.svg)]()
-[![Travis](https://img.shields.io/travis/sebs/pa-validate.svg)]()
-
-rpc-check - v3.2.4 - RPC Check - Checks for Ethereum JSON RPC Nodes
-
-[![npm](https://img.shields.io/npm/dt/rpc-check.svg)](https://www.npmjs.com/package/rpc-check)
-[![license](https://img.shields.io/github/license/sebs/rpc-check.svg)](https://github.com/sebs/rpc-check/blob/master/LICENSE.md)
-[![GitHub tag](https://img.shields.io/github/tag/sebs/rpc-check.svg)](https://github.com/sebs/rpc-check)
-[![Travis](https://img.shields.io/travis/sebs/rpc-check.svg)](https://travis-ci.org/sebs/rpc-check)
-[![GitHub issues](https://img.shields.io/github/issues/sebs/rpc-check.svg)](https://github.com/sebs/rpc-check/issues)
-
-rsstojson - v0.1.1 - converts rss to json
-
-[![npm](https://img.shields.io/npm/dt/rsstojson.svg)]()
-[![license](https://img.shields.io/github/license/sebs/rsstojson.svg)]()
-[![GitHub tag](https://img.shields.io/github/tag/sebs/rsstojson.svg)]()
-[![Travis](https://img.shields.io/travis/sebs/rsstojson.svg)]()
-
-socketizer - v0.0.4 - A cli to interact with web socket endpoints
-
-[![npm](https://img.shields.io/npm/dt/socketizer.svg)]()
-[![license](https://img.shields.io/github/license/sebs/socketizer.svg)]()
-[![GitHub tag](https://img.shields.io/github/tag/sebs/socketizer.svg)]()
-[![Travis](https://img.shields.io/travis/sebs/socketizer.svg)]()
+Downloads last 365 days: 35557
 
 
-web3-mocha-ui - v0.1.1 - TDD ui for mocha js, extrended for use with smart contracts and web3.
 
-[![npm](https://img.shields.io/npm/dt/web3-mocha-ui.svg)]()
-[![license](https://img.shields.io/github/license/sebs/web3-mocha-ui.svg)]()
-[![GitHub tag](https://img.shields.io/github/tag/sebs/web3-mocha-ui.svg)]()
-[![Travis](https://img.shields.io/travis/sebs/web3-mocha-ui.svg)]()
-[![GitHub issues](https://img.shields.io/github/issues/sebs/web3-mocha-ui.svg)]()
+## generator-lit-element
+
+![npm](https://nodei.co/npm/generator-lit-element.png?downloads=true&downloadRank=true&stars=true)
+
+Scaffolds a empty lit-element module with tests and documentation
+
+* [Project Page](https://github.com/sebs/generator-lit-element/)
+* [NPM Package](https://www.npmjs.com/package/generator-lit-element)
+
+
+## generator-hexo-plugin
+
+![npm](https://nodei.co/npm/generator-hexo-plugin.png?downloads=true&downloadRank=true&stars=true)
+
+Generates a basic hexo plugin
+
+* [Project Page](https://github.com/sebs/generator-hexo-plugin)
+* [NPM Package](https://www.npmjs.com/package/generator-hexo-plugin)
+
+
+## generator-nodecli-awesome
+
+![npm](https://nodei.co/npm/generator-nodecli-awesome.png?downloads=true&downloadRank=true&stars=true)
+
+A improved Yeoman generator for nodejs cli modules
+
+* [Project Page](https://github.com/sebs/generator-nodecli-awesome)
+* [NPM Package](https://www.npmjs.com/package/generator-nodecli-awesome)
+
+
+## capcoin
+
+![npm](https://nodei.co/npm/capcoin.png?downloads=true&downloadRank=true&stars=true)
+
+Gets data from coincap.io in the CLI
+
+* [Project Page](https://github.com/sebs/capcoin#readme)
+* [NPM Package](https://www.npmjs.com/package/capcoin)
+
+
+## es6-fuzz
+
+![npm](https://nodei.co/npm/es6-fuzz.png?downloads=true&downloadRank=true&stars=true)
+
+fuzzy logic with and for es6
+
+* [Project Page](https://github.com/sebs/es6-fuzz)
+* [NPM Package](https://www.npmjs.com/package/es6-fuzz)
+
+
+## etherscan-api
+
+![npm](https://nodei.co/npm/etherscan-api.png?downloads=true&downloadRank=true&stars=true)
+
+API to etherscan with a simple interface
+
+* [Project Page](https://github.com/sebs/etherscan-api#readme)
+* [NPM Package](https://www.npmjs.com/package/etherscan-api)
+
+
+## ethrain
+
+![npm](https://nodei.co/npm/ethrain.png?downloads=true&downloadRank=true&stars=true)
+
+Command line Ethereum Testnet Faucet. gets you ether on the ethereum testnet (morden)
+
+* [Project Page](https://github.com/sebs/ethrain)
+* [NPM Package](https://www.npmjs.com/package/ethrain)
+
+
+## md-glossary
+
+![npm](https://nodei.co/npm/md-glossary.png?downloads=true&downloadRank=true&stars=true)
+
+Generates a glossary in markdown
+
+* [Project Page](https://github.com/sebs/md-glossary/)
+* [NPM Package](https://www.npmjs.com/package/md-glossary)
+
+
+## rpc-check
+
+![npm](https://nodei.co/npm/rpc-check.png?downloads=true&downloadRank=true&stars=true)
+
+RPC Check - Checks for Ethereum JSON RPC Nodes
+
+* [Project Page](https://github.com/sebs/rpc-check)
+* [NPM Package](https://www.npmjs.com/package/rpc-check)
+
+
+## web3-mocha-ui
+
+![npm](https://nodei.co/npm/web3-mocha-ui.png?downloads=true&downloadRank=true&stars=true)
+
+
+
+* [Project Page](https://github.com/sebs/web3-mocha-ui#readme)
+* [NPM Package](https://www.npmjs.com/package/web3-mocha-ui)
+
+
+## socketizer
+
+![npm](https://nodei.co/npm/socketizer.png?downloads=true&downloadRank=true&stars=true)
+
+A cli to interact with web socket endpoints
+
+* [Project Page](undefined)
+* [NPM Package](https://www.npmjs.com/package/socketizer)
+
+
+## etherscan-cli
+
+![npm](https://nodei.co/npm/etherscan-cli.png?downloads=true&downloadRank=true&stars=true)
+
+cli access to etherscan.io
+
+* [Project Page](https://github.com/sebs/etherscan-cli/)
+* [NPM Package](https://www.npmjs.com/package/etherscan-cli)
+
+
+## es6-currency-codes
+
+![npm](https://nodei.co/npm/es6-currency-codes.png?downloads=true&downloadRank=true&stars=true)
+
+Lookup currency codes based on ISO 4217 in pure es6
+
+* [Project Page](undefined)
+* [NPM Package](https://www.npmjs.com/package/es6-currency-codes)
+
+
+## esi-es6
+
+![npm](https://nodei.co/npm/esi-es6.png?downloads=true&downloadRank=true&stars=true)
+
+A simple es6 module wrapper around the eve online api
+
+* [Project Page](https://github.com/sebs/esi-es6)
+* [NPM Package](https://www.npmjs.com/package/esi-es6)
+
+
+## makebadges-cli
+
+![npm](https://nodei.co/npm/makebadges-cli.png?downloads=true&downloadRank=true&stars=true)
+
+creates some markdwon badges for sebs.github.io/projects
+
+* [Project Page](undefined)
+* [NPM Package](https://www.npmjs.com/package/makebadges-cli)
+
+
+## mocha-test-runner-polymer
+
+![npm](https://nodei.co/npm/mocha-test-runner-polymer.png?downloads=true&downloadRank=true&stars=true)
+
+Runs a mocha test
+
+* [Project Page](undefined)
+* [NPM Package](https://www.npmjs.com/package/mocha-test-runner-polymer)
+
+
+## web3-mocha-ui
+
+![npm](https://nodei.co/npm/web3-mocha-ui.png?downloads=true&downloadRank=true&stars=true)
+
+
+
+* [Project Page](https://github.com/sebs/web3-mocha-ui#readme)
+* [NPM Package](https://www.npmjs.com/package/web3-mocha-ui)
+
+
+## socketizer
+
+![npm](https://nodei.co/npm/socketizer.png?downloads=true&downloadRank=true&stars=true)
+
+A cli to interact with web socket endpoints
+
+* [Project Page](undefined)
+* [NPM Package](https://www.npmjs.com/package/socketizer)
+
+
+## rsstojson
+
+![npm](https://nodei.co/npm/rsstojson.png?downloads=true&downloadRank=true&stars=true)
+
+converts rss to json 
+
+* [Project Page](undefined)
+* [NPM Package](https://www.npmjs.com/package/rsstojson)
+
+
+## @hiherto-elements/assert
+
+![npm](https://nodei.co/npm/@hiherto-elements/assert.png?downloads=true&downloadRank=true&stars=true)
+
+A simple assertion libbrary refactred to es6
+
+* [Project Page](https://github.com/hiherto-elements/es-next-modules#readme)
+* [NPM Package](https://www.npmjs.com/package/@hiherto-elements/assert)
+
+
+## @hiherto-elements/gherkin
+
+![npm](https://nodei.co/npm/@hiherto-elements/gherkin.png?downloads=true&downloadRank=true&stars=true)
+
+minimal es6 test gherkin parser
+
+* [Project Page](https://github.com/hiherto-elements/es-next-modules#readme)
+* [NPM Package](https://www.npmjs.com/package/@hiherto-elements/gherkin)
+
+
+## @hiherto-elements/esi
+
+![npm](https://nodei.co/npm/@hiherto-elements/esi.png?downloads=true&downloadRank=true&stars=true)
+
+A simple es6 module wrapper around the eve online api
+
+* [Project Page](https://github.com/hiherto-elements/es-next-modules)
+* [NPM Package](https://www.npmjs.com/package/@hiherto-elements/esi)
+
+
+## @hiherto-elements/natural
+
+![npm](https://nodei.co/npm/@hiherto-elements/natural.png?downloads=true&downloadRank=true&stars=true)
+
+minimal es6 natural language detection
+
+* [Project Page](https://github.com/sebs/deno-assert-js#readme)
+* [NPM Package](https://www.npmjs.com/package/@hiherto-elements/natural)
+
+
+## @hiherto-elements/punycode
+
+![npm](https://nodei.co/npm/@hiherto-elements/punycode.png?downloads=true&downloadRank=true&stars=true)
+
+minimal es6 punycode de- and encoder, forked from the 'original' 
+
+* [Project Page](https://github.com/hiherto-elements/es-next-modules#readme)
+* [NPM Package](https://www.npmjs.com/package/@hiherto-elements/punycode)
+
+
+## @hiherto-elements/querystring
+
+![npm](https://nodei.co/npm/@hiherto-elements/querystring.png?downloads=true&downloadRank=true&stars=true)
+
+es6 version of the original node js url module
+
+* [Project Page](https://github.com/hiherto-elements/es-next-modules#readme)
+* [NPM Package](https://www.npmjs.com/package/@hiherto-elements/querystring)
+
+
+## @hiherto-elements/url
+
+![npm](https://nodei.co/npm/@hiherto-elements/url.png?downloads=true&downloadRank=true&stars=true)
+
+es6 version of the original node js url module
+
+* [Project Page](https://github.com/hiherto-elements/es-next-modules#readme)
+* [NPM Package](https://www.npmjs.com/package/@hiherto-elements/url)
+
+
+## @hiherto-elements/diff
+
+![npm](https://nodei.co/npm/@hiherto-elements/diff.png?downloads=true&downloadRank=true&stars=true)
+
+es6 version of the diff algo by Resig and Alan
+
+* [Project Page](https://github.com/hiherto-elements/es-next-modules#readme)
+* [NPM Package](https://www.npmjs.com/package/@hiherto-elements/diff)
+
 

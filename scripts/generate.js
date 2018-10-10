@@ -2,7 +2,14 @@ const fetch = require('node-fetch');
 var projects = require('../projects.json');
 var stats = require('../stats.json');
 
-projects = projects.map(project => fetch(`https://raw.githubusercontent.com/${project}/master/package.json`).then(res => res.json()));
+const { getHihertoUrl, getDefaultUrl, isHihertoUrl } = require('./url-util.js');
+
+function getUrl(project) {
+	let generateUrl = isHihertoUrl(project) ? getHihertoUrl : getDefaultUrl;
+	return generateUrl(project);
+}
+
+projects = projects.map(project => fetch(getUrl(project)).then(res => res.json()));
 
 const header = `
 # Projects on NPM

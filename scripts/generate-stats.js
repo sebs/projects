@@ -1,8 +1,12 @@
 const fetch = require('node-fetch');
 var projects = require('../projects.json');
+const { getHihertoUrl, getDefaultUrl, isHihertoUrl } = require('./url-util.js');
 
 function fetchProject(project) {
-	return fetch(`https://raw.githubusercontent.com/${project}/master/package.json`)
+
+	let generateUrl = isHihertoUrl(project) ? getHihertoUrl : getDefaultUrl;
+	let url = generateUrl(project);
+	return fetch(url)
 		.then(res => res.json()).catch(console.error)
 }
 
