@@ -1,7 +1,7 @@
 
 # Projects on NPM
 
-Downloads last 365 days: 36253
+Downloads last 365 days: 36423
 
 
 
@@ -269,7 +269,7 @@ es6 version of the original node js url module
 
 ![npm](https://nodei.co/npm/@hiherto-elements/diff.png?downloads=true&downloadRank=true&stars=true)
 
-es6 version of the diff algo by Resig and Alan
+es6 version of jsDiff
 
 * [Project Page](https://github.com/hiherto-elements/es-next-modules#readme)
 * [NPM Package](https://www.npmjs.com/package/@hiherto-elements/diff)
