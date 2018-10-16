@@ -1,7 +1,7 @@
 
 # Projects on NPM
 
-Downloads last 365 days: 36253
+Downloads last 365 days: 36484
 
 
 
@@ -201,7 +201,7 @@ converts rss to json
 
 A simple assertion libbrary refactred to es6
 
-* [Project Page](https://github.com/hiherto-elements/es-next-modules#readme)
+* [Project Page](https://hiherto-elements.github.io/es-next-modules/assert/)
 * [NPM Package](https://www.npmjs.com/package/@hiherto-elements/assert)
 
 
@@ -211,7 +211,7 @@ A simple assertion libbrary refactred to es6
 
 minimal es6 test gherkin parser
 
-* [Project Page](https://github.com/hiherto-elements/es-next-modules#readme)
+* [Project Page](https://hiherto-elements.github.io/es-next-modules/gherkin/)
 * [NPM Package](https://www.npmjs.com/package/@hiherto-elements/gherkin)
 
 
@@ -221,7 +221,7 @@ minimal es6 test gherkin parser
 
 A simple es6 module wrapper around the eve online api
 
-* [Project Page](https://github.com/hiherto-elements/es-next-modules)
+* [Project Page](https://hiherto-elements.github.io/es-next-modules/esi/)
 * [NPM Package](https://www.npmjs.com/package/@hiherto-elements/esi)
 
 
@@ -231,7 +231,7 @@ A simple es6 module wrapper around the eve online api
 
 minimal es6 natural language detection
 
-* [Project Page](https://github.com/sebs/deno-assert-js#readme)
+* [Project Page](https://hiherto-elements.github.io/es-next-modules/natural/)
 * [NPM Package](https://www.npmjs.com/package/@hiherto-elements/natural)
 
 
@@ -241,7 +241,7 @@ minimal es6 natural language detection
 
 minimal es6 punycode de- and encoder, forked from the 'original' 
 
-* [Project Page](https://github.com/hiherto-elements/es-next-modules#readme)
+* [Project Page](https://hiherto-elements.github.io/es-next-modules/punycode/)
 * [NPM Package](https://www.npmjs.com/package/@hiherto-elements/punycode)
 
 
@@ -251,7 +251,7 @@ minimal es6 punycode de- and encoder, forked from the 'original'
 
 es6 version of the original node js url module
 
-* [Project Page](https://github.com/hiherto-elements/es-next-modules#readme)
+* [Project Page](https://hiherto-elements.github.io/es-next-modules/querystring/)
 * [NPM Package](https://www.npmjs.com/package/@hiherto-elements/querystring)
 
 
@@ -261,7 +261,7 @@ es6 version of the original node js url module
 
 es6 version of the original node js url module
 
-* [Project Page](https://github.com/hiherto-elements/es-next-modules#readme)
+* [Project Page](https://hiherto-elements.github.io/es-next-modules/url/)
 * [NPM Package](https://www.npmjs.com/package/@hiherto-elements/url)
 
 
@@ -269,9 +269,9 @@ es6 version of the original node js url module
 
 ![npm](https://nodei.co/npm/@hiherto-elements/diff.png?downloads=true&downloadRank=true&stars=true)
 
-es6 version of the diff algo by Resig and Alan
+es6 version of jsDiff
 
-* [Project Page](https://github.com/hiherto-elements/es-next-modules#readme)
+* [Project Page](https://hiherto-elements.github.io/es-next-modules/diff/)
 * [NPM Package](https://www.npmjs.com/package/@hiherto-elements/diff)
 
 
