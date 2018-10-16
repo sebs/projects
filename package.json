@@ -1,0 +1,22 @@
+{
+  "name": "projects",
+  "version": "1.0.0",
+  "description": "Downloads last 365 days: 36253",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebs/projects.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sebs/projects/issues"
+  },
+  "homepage": "https://github.com/sebs/projects#readme",
+  "dependencies": {
+    "node-fetch": "^2.2.0"
+  }
+}
