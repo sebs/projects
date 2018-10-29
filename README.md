@@ -1,7 +1,7 @@
 
 # Projects on NPM
 
-Downloads last 365 days: 36207
+Downloads last 365 days: 35338
 
 
 
@@ -221,7 +221,7 @@ minimal es6 test gherkin parser
 
 A simple es6 module wrapper around the eve online api
 
-* [Project Page](https://hiherto-elements.github.io/es-next-modules/assert/)
+* [Project Page](https://hiherto-elements.github.io/es-next-modules/esi/)
 * [NPM Package](https://www.npmjs.com/package/@hiherto-elements/esi)
 
 
@@ -231,7 +231,7 @@ A simple es6 module wrapper around the eve online api
 
 minimal es6 natural language detection
 
-* [Project Page](https://hiherto-elements.github.io/es-next-modules/assert/)
+* [Project Page](https://hiherto-elements.github.io/es-next-modules/natural/)
 * [NPM Package](https://www.npmjs.com/package/@hiherto-elements/natural)
 
 
