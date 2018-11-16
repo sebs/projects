@@ -14,8 +14,7 @@ projects = projects.map(project => fetch(getUrl(project)).then(res => res.json()
 const header = `
 # Projects on NPM
 
-Downloads last 365 days: ${stats.count}
-
+Download count: ${stats.count}
 
 `;
 
