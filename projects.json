@@ -25,5 +25,7 @@
 	"@hiherto-elements/punycode",
 	"@hiherto-elements/querystring",
 	"@hiherto-elements/url",
-	"@hiherto-elements/diff"
+	"@hiherto-elements/diff",
+	"@hiherto-elements/test"
+	
 ]
