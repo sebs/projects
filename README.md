@@ -1,7 +1,7 @@
 
 # Projects on NPM
 
-Downloads last 365 days: 35591
+Downloads last 365 days: 53107
 
 
 

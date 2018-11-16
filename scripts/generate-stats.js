@@ -11,7 +11,7 @@ function fetchProject(project) {
 }
 
 function fetchStats(projectName, range) {
-	return fetch(`https://api.npmjs.org/downloads/point/last-year/${projectName}`)
+	return fetch(`https://api.npmjs.org/downloads/point/2012-01-01:2020-12-31/${projectName}`)
 		.then(res => res.json()).catch(console.error)
 }
 
