@@ -1,7 +1,7 @@
 
 # Projects on NPM
 
-Download count: 53107
+Download count: 52225
 
 
 ## generator-lit-element
@@ -272,5 +272,15 @@ es6 version of jsDiff
 
 * [Project Page](https://hiherto-elements.github.io/es-next-modules/diff/)
 * [NPM Package](https://www.npmjs.com/package/@hiherto-elements/diff)
+
+
+## @hiherto-elements/test
+
+![npm](https://nodei.co/npm/@hiherto-elements/test.png?downloads=true&downloadRank=true&stars=true)
+
+a very simple test runner, delivered as es module
+
+* [Project Page](https://hiherto-elements.github.io/es-next-modules/test/)
+* [NPM Package](https://www.npmjs.com/package/@hiherto-elements/test)
 
 
