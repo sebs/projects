@@ -1,7 +1,7 @@
 
 # Projects on NPM
 
-Download count: 57681
+Download count: 57129
 
 
 ## generator-lit-element
